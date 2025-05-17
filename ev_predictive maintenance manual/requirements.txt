@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+joblib
+streamlit
+matplotlib
+seaborn
+flask
+Flask
+pandas
+joblib
+requests
+matplotlib
+seaborn
