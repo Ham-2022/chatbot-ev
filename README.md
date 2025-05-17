@@ -1,4 +1,39 @@
-<<<<<<< HEAD
+# ⚡ AI-Driven Intelligent Chatbot for Electric Vehicle (EV) Management
+
+The transition to Electric Vehicles (EVs) is a critical step toward sustainable mobility. However, challenges such as **unplanned maintenance**, **battery health issues**, and **inefficient route planning** still persist.  
+
+This project introduces a **Generative AI-Powered Chatbot** designed to tackle these problems using real-time analytics and intelligent automation — enhancing EV ownership, reducing costs, and increasing vehicle uptime and safety.
+
+---
+
+## 🚀 Key Features
+
+- ✅ **Predictive Maintenance**  
+  Detects issues before they occur using AI/ML models and real-time analytics.
+
+- ✅ **Battery & Vehicle Monitoring**  
+  Live vehicle tracking, battery health reports, and automated service reminders.
+
+- ✅ **Navigation & Location Services**  
+  Real-time traffic-aware route planning with nearby charging station suggestions and charging time estimates.
+
+- ✅ **Voice Assistant**  
+  Hands-free interaction powered by Azure OpenAI (GPT-4o), with multilingual support.
+
+- ✅ **VIN-Based Registration**  
+  Simplified vehicle registration and data management for individual and fleet users.
+
+---
+
+## 📁 Project Structure
+
+- **data/**: Contains raw and preprocessed battery data.
+- **models/**: Pre-trained models for battery health prediction.
+- **scripts/**: Python scripts for battery health prediction, training models, evaluating models, and more.
+- **chatbot/**: Chatbot implementation.
+- **schedule_service/**: Scripts for scheduling service appointments.
+- **fleet_manager/**: Fleet manager feature.
+- **app.py**: The main Streamlit app that serves the home page and provides navigation to different features.
 
 ![image](https://github.com/user-attachments/assets/f4e12a67-4a85-4e0e-b10b-96e3b8b075e1)
 ![image](https://github.com/user-attachments/assets/f671f306-474a-4ec7-9e7c-5fbc8a103e64)
@@ -9,31 +44,17 @@
 https://github.com/user-attachments/assets/7172fac6-8bc2-4fbd-8468-b21596b22fe8
 
 
+📈 Future Enhancements
+🚚 Fleet Management Integration
+Dashboard and controls tailored for managing multiple EVs in real-time.
 
-# EV Fleet Management System
+🧠 Enhanced Predictive Models
+Improved accuracy and adaptability with real-world EV data integration.
 
-This project provides a system for managing electric vehicles (EVs), predicting battery health, scheduling services, and more. The main features include:
+🌐 Multilingual & Advanced Feedback System
+Improved accessibility and user engagement across regions.
 
-- **Battery Health Report**: Predict the health of your EV battery based on several factors.
-- **Chatbot**: An assistant chatbot for answering EV-related questions.
-- **Schedule Service**: Allows users to schedule service appointments for their EVs.
-- **Fleet Manager**: Manage multiple EVs and their statuses.
 
-## Project Structure
-
-- **data/**: Contains raw and preprocessed battery data.
-- **models/**: Pre-trained models for battery health prediction.
-- **scripts/**: Python scripts for battery health prediction, training models, evaluating models, and more.
-- **chatbot/**: Chatbot implementation.
-- **schedule_service/**: Scripts for scheduling service appointments.
-- **fleet_manager/**: Fleet manager feature.
-- **app.py**: The main Streamlit app that serves the home page and provides navigation to different features.
-
-## Future Extensions
-
-- Add real-time data integration for fleet management.
-- Implement backend APIs for scheduling services.
-- Enhance the chatbot to provide more interactive responses.
 =======
 # ev_chatbot-tata
 A TataInnovent2024 hackathon Top 30 teams
