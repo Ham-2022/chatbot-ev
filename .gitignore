@@ -1,2 +1,18 @@
-"ev_predictive maintenance manual/venv/" 
-venv/ 
+# Python virtual environments
+venv/
+.env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Mac/Linux/Windows specific
+.DS_Store
+Thumbs.db
